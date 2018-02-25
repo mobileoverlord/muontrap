@@ -1,5 +1,7 @@
 # MuonTrap
 
+*Under active development*
+
 Keep programs, deamons, and applications launched from Erlang and Elixir
 contained and well-behaved. This lightweight library kills OS processes if the
 Elixir process running them crashes and if you're running on Linux, it can use
